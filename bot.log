@@ -1,0 +1,218 @@
+2025-04-13 09:04:57,172 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-13 09:04:57,446 - aiogram.dispatcher - INFO - Polling stopped for bot @CosmicHoroscope_bot id=7723968269 - '"Небесные Секреты" 🌌'
+2025-04-13 09:04:57,450 - __main__ - INFO - Бот остановлен пользователем
+2025-04-13 09:04:57,567 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000025F802FFB10>
+2025-04-13 09:05:03,444 - aiogram.dispatcher - INFO - Start polling
+2025-04-13 09:05:03,514 - aiogram.dispatcher - INFO - Run polling for bot @CosmicHoroscope_bot id=7723968269 - '"Небесные Секреты" 🌌'
+2025-04-13 09:05:08,161 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-13 09:05:08,754 - __main__ - INFO - Публикация в канал: "Небесные Секреты" 🌌
+2025-04-13 10:20:25,988 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-13 10:20:25,989 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-13 10:20:37,379 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-13 11:50:21,352 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-13 11:50:21,355 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-13 11:50:32,629 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-13 12:12:20,756 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-13 12:12:20,757 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-13 12:12:22,533 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-13 12:12:22,796 - __main__ - INFO - Публикация в канал: "Небесные Секреты" 🌌
+2025-04-13 12:12:32,754 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-13 16:03:50,402 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-13 16:03:50,403 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-13 16:03:53,261 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-13 16:03:53,560 - __main__ - INFO - Публикация в канал: "Небесные Секреты" 🌌
+2025-04-13 16:04:03,473 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-13 16:27:51,524 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-13 16:27:51,790 - aiogram.dispatcher - INFO - Polling stopped for bot @CosmicHoroscope_bot id=7723968269 - '"Небесные Секреты" 🌌'
+2025-04-13 16:27:51,794 - __main__ - INFO - Бот остановлен пользователем
+2025-04-13 16:27:57,261 - aiogram.dispatcher - INFO - Start polling
+2025-04-13 16:27:57,328 - aiogram.dispatcher - INFO - Run polling for bot @CosmicHoroscope_bot id=7723968269 - '"Небесные Секреты" 🌌'
+2025-04-13 16:27:58,614 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-13 16:27:58,892 - __main__ - INFO - Публикация в канал: "Небесные Секреты" 🌌
+2025-04-13 16:48:32,981 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-13 16:48:32,981 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-13 16:48:44,202 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-13 18:28:39,290 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-13 18:28:39,616 - __main__ - INFO - Публикация в канал: "Небесные Секреты" 🌌
+2025-04-13 19:09:03,376 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-13 19:09:03,376 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-13 19:09:14,610 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-13 19:41:49,986 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-13 19:41:49,986 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-13 19:42:01,223 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-13 20:29:08,599 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-13 20:29:08,972 - __main__ - INFO - Публикация в канал: "Небесные Секреты" 🌌
+2025-04-13 21:21:29,178 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-13 21:21:29,179 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-13 22:33:59,958 - __main__ - WARNING - Нет интернет-соединения
+2025-04-13 22:34:11,016 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-14 02:36:02,975 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-14 02:36:02,976 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-14 04:48:58,176 - __main__ - WARNING - Нет интернет-соединения
+2025-04-14 06:42:49,704 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-14 06:42:49,705 - aiogram.dispatcher - WARNING - Sleep for 1.442833 seconds and try again... (tryings = 1, bot id = 7723968269)
+2025-04-14 07:44:35,414 - __main__ - WARNING - Нет интернет-соединения
+2025-04-14 07:44:46,195 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 7723968269)
+2025-04-14 07:45:37,295 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-14 07:45:37,808 - __main__ - INFO - Публикация в канал: "Небесные Секреты" 🌌
+2025-04-14 10:23:47,118 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-14 10:23:47,118 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-14 10:23:50,393 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-14 10:23:50,658 - __main__ - INFO - Публикация в канал: "Небесные Секреты" 🌌
+2025-04-14 10:24:00,697 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-14 10:25:31,842 - aiogram.dispatcher - INFO - Start polling
+2025-04-14 10:25:31,906 - aiogram.dispatcher - INFO - Run polling for bot @CosmicHoroscope_bot id=7723968269 - '"Небесные Секреты" 🌌'
+2025-04-14 10:25:33,496 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-14 10:25:34,012 - __main__ - INFO - Публикация в канал: "Небесные Секреты" 🌌
+2025-04-14 11:34:22,656 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-14 11:34:22,660 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-14 11:34:33,922 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-14 12:29:26,661 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-14 12:29:26,940 - __main__ - INFO - Публикация в канал: "Небесные Секреты" 🌌
+2025-04-14 13:12:20,277 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-14 13:12:20,277 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-14 13:12:31,497 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-14 14:18:25,631 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-14 14:18:25,634 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-14 14:23:59,022 - __main__ - WARNING - Нет интернет-соединения
+2025-04-14 14:26:51,239 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-14 14:26:51,240 - aiogram.dispatcher - WARNING - Sleep for 1.272924 seconds and try again... (tryings = 1, bot id = 7723968269)
+2025-04-14 14:27:02,721 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 7723968269)
+2025-04-14 14:48:55,044 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-14 14:48:55,045 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-14 14:49:06,276 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-14 15:24:09,081 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-14 15:24:09,081 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-14 15:24:20,345 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-14 17:43:57,488 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-14 17:43:57,489 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-14 17:44:08,794 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-14 17:44:57,549 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-14 17:44:57,817 - aiogram.dispatcher - INFO - Polling stopped for bot @CosmicHoroscope_bot id=7723968269 - '"Небесные Секреты" 🌌'
+2025-04-14 17:44:57,821 - __main__ - INFO - Бот остановлен пользователем
+2025-04-14 17:45:01,436 - aiogram.dispatcher - INFO - Start polling
+2025-04-14 17:45:01,514 - aiogram.dispatcher - INFO - Run polling for bot @CosmicHoroscope_bot id=7723968269 - '"Небесные Секреты" 🌌'
+2025-04-14 17:45:02,575 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-14 17:45:03,258 - __main__ - INFO - Публикация в канал: "Небесные Секреты" 🌌
+2025-04-14 17:45:21,454 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-14 17:45:21,703 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2765)
+2025-04-14 17:45:21,703 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-14 17:45:21,719 - aiogram.dispatcher - INFO - Polling stopped for bot @CosmicHoroscope_bot id=7723968269 - '"Небесные Секреты" 🌌'
+2025-04-14 17:45:21,720 - __main__ - INFO - Бот остановлен пользователем
+2025-04-14 17:45:24,717 - aiogram.dispatcher - INFO - Start polling
+2025-04-14 17:45:24,787 - aiogram.dispatcher - INFO - Run polling for bot @CosmicHoroscope_bot id=7723968269 - '"Небесные Секреты" 🌌'
+2025-04-14 17:45:25,882 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-14 17:45:26,362 - __main__ - INFO - Публикация в канал: "Небесные Секреты" 🌌
+2025-04-14 18:02:32,701 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-14 18:02:32,962 - aiogram.dispatcher - INFO - Polling stopped for bot @CosmicHoroscope_bot id=7723968269 - '"Небесные Секреты" 🌌'
+2025-04-14 18:02:32,967 - __main__ - INFO - Бот остановлен пользователем
+2025-04-14 18:02:33,073 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000026905F43750>
+2025-04-14 18:02:40,753 - aiogram.dispatcher - INFO - Start polling
+2025-04-14 18:02:40,825 - aiogram.dispatcher - INFO - Run polling for bot @CosmicHoroscope_bot id=7723968269 - '"Небесные Секреты" 🌌'
+2025-04-14 18:02:42,087 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-14 18:02:42,629 - __main__ - INFO - Публикация в канал: "Небесные Секреты" 🌌
+2025-04-14 20:24:44,523 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-14 20:24:44,528 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-14 20:24:46,406 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-14 20:24:46,720 - __main__ - INFO - Публикация в канал: "Небесные Секреты" 🌌
+2025-04-14 20:42:32,323 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-14 20:42:32,324 - aiogram.dispatcher - WARNING - Sleep for 1.338967 seconds and try again... (tryings = 1, bot id = 7723968269)
+2025-04-14 20:42:32,325 - __main__ - ERROR - Ошибка генерации изображения: 
+2025-04-14 20:42:44,068 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 7723968269)
+2025-04-14 22:14:57,865 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-14 22:14:57,865 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-14 22:15:09,096 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-15 02:34:20,267 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-15 02:34:20,268 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-15 08:44:47,433 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-15 08:44:47,489 - aiogram.dispatcher - WARNING - Sleep for 1.288303 seconds and try again... (tryings = 1, bot id = 7723968269)
+2025-04-15 08:44:59,054 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 7723968269)
+2025-04-15 08:46:34,985 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-15 08:46:35,251 - aiogram.dispatcher - INFO - Polling stopped for bot @CosmicHoroscope_bot id=7723968269 - '"Небесные Секреты" 🌌'
+2025-04-15 08:46:35,255 - __main__ - INFO - Бот остановлен пользователем
+2025-04-15 08:46:43,937 - aiogram.dispatcher - INFO - Start polling
+2025-04-15 08:46:44,012 - aiogram.dispatcher - INFO - Run polling for bot @CosmicHoroscope_bot id=7723968269 - '"Небесные Секреты" 🌌'
+2025-04-15 09:07:03,271 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-15 09:07:03,277 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-15 09:07:14,827 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-15 09:07:23,287 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-15 09:07:23,548 - aiogram.dispatcher - INFO - Polling stopped for bot @CosmicHoroscope_bot id=7723968269 - '"Небесные Секреты" 🌌'
+2025-04-15 09:07:23,551 - __main__ - INFO - Бот остановлен пользователем
+2025-04-15 09:07:53,627 - aiogram.dispatcher - INFO - Start polling
+2025-04-15 09:07:53,700 - aiogram.dispatcher - INFO - Run polling for bot @CosmicHoroscope_bot id=7723968269 - '"Небесные Секреты" 🌌'
+2025-04-15 09:40:02,050 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-15 09:40:02,051 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-15 09:40:13,468 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-15 14:28:38,021 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-15 14:28:38,027 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-15 14:28:49,305 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-15 15:57:23,386 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-15 15:57:23,392 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-15 15:57:34,773 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-15 18:04:04,926 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-15 18:04:04,978 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-15 18:04:07,278 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 18:04:07,604 - __main__ - INFO - Публикация в канал: "Небесные Секреты" 🌌
+2025-04-15 18:04:17,831 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7723968269)
+2025-04-15 20:06:31,089 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-15 20:06:31,089 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7723968269)
+2025-04-15 20:06:45,082 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 20:06:53,169 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:06:53,170 - aiogram.dispatcher - WARNING - Sleep for 1.253764 seconds and try again... (tryings = 1, bot id = 7723968269)
+2025-04-15 20:07:06,171 - __main__ - ERROR - Ошибка доступа к каналу: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:07:15,483 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:07:15,483 - aiogram.dispatcher - WARNING - Sleep for 1.581389 seconds and try again... (tryings = 2, bot id = 7723968269)
+2025-04-15 20:07:27,225 - __main__ - ERROR - Ошибка уведомления администратора: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:07:38,096 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:07:38,096 - aiogram.dispatcher - WARNING - Sleep for 2.185913 seconds and try again... (tryings = 3, bot id = 7723968269)
+2025-04-15 20:08:01,317 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:08:01,319 - aiogram.dispatcher - WARNING - Sleep for 2.772614 seconds and try again... (tryings = 4, bot id = 7723968269)
+2025-04-15 20:08:25,150 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:08:25,151 - aiogram.dispatcher - WARNING - Sleep for 3.518401 seconds and try again... (tryings = 5, bot id = 7723968269)
+2025-04-15 20:08:49,715 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:08:49,715 - aiogram.dispatcher - WARNING - Sleep for 4.616104 seconds and try again... (tryings = 6, bot id = 7723968269)
+2025-04-15 20:09:15,364 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:09:15,366 - aiogram.dispatcher - WARNING - Sleep for 4.935555 seconds and try again... (tryings = 7, bot id = 7723968269)
+2025-04-15 20:09:41,377 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:09:41,378 - aiogram.dispatcher - WARNING - Sleep for 4.956542 seconds and try again... (tryings = 8, bot id = 7723968269)
+2025-04-15 20:10:07,395 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:10:07,396 - aiogram.dispatcher - WARNING - Sleep for 5.018728 seconds and try again... (tryings = 9, bot id = 7723968269)
+2025-04-15 20:10:33,478 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:10:33,478 - aiogram.dispatcher - WARNING - Sleep for 5.061624 seconds and try again... (tryings = 10, bot id = 7723968269)
+2025-04-15 20:10:59,604 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:10:59,604 - aiogram.dispatcher - WARNING - Sleep for 4.956402 seconds and try again... (tryings = 11, bot id = 7723968269)
+2025-04-15 20:11:25,618 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:11:25,618 - aiogram.dispatcher - WARNING - Sleep for 4.931400 seconds and try again... (tryings = 12, bot id = 7723968269)
+2025-04-15 20:11:51,601 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:11:51,602 - aiogram.dispatcher - WARNING - Sleep for 5.005859 seconds and try again... (tryings = 13, bot id = 7723968269)
+2025-04-15 20:12:17,641 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:12:17,642 - aiogram.dispatcher - WARNING - Sleep for 4.938259 seconds and try again... (tryings = 14, bot id = 7723968269)
+2025-04-15 20:12:43,629 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:12:43,630 - aiogram.dispatcher - WARNING - Sleep for 4.964639 seconds and try again... (tryings = 15, bot id = 7723968269)
+2025-04-15 20:13:09,631 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:13:09,632 - aiogram.dispatcher - WARNING - Sleep for 5.189570 seconds and try again... (tryings = 16, bot id = 7723968269)
+2025-04-15 20:13:35,884 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:13:35,885 - aiogram.dispatcher - WARNING - Sleep for 5.177809 seconds and try again... (tryings = 17, bot id = 7723968269)
+2025-04-15 20:14:02,111 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:14:02,112 - aiogram.dispatcher - WARNING - Sleep for 4.873055 seconds and try again... (tryings = 18, bot id = 7723968269)
+2025-04-15 20:14:28,025 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:14:28,026 - aiogram.dispatcher - WARNING - Sleep for 4.931904 seconds and try again... (tryings = 19, bot id = 7723968269)
+2025-04-15 20:14:53,997 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:14:53,997 - aiogram.dispatcher - WARNING - Sleep for 5.045314 seconds and try again... (tryings = 20, bot id = 7723968269)
+2025-04-15 20:15:20,078 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:15:20,079 - aiogram.dispatcher - WARNING - Sleep for 5.014509 seconds and try again... (tryings = 21, bot id = 7723968269)
+2025-04-15 20:15:46,143 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:15:46,144 - aiogram.dispatcher - WARNING - Sleep for 5.016084 seconds and try again... (tryings = 22, bot id = 7723968269)
+2025-04-15 20:16:12,215 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:16:12,217 - aiogram.dispatcher - WARNING - Sleep for 4.988873 seconds and try again... (tryings = 23, bot id = 7723968269)
+2025-04-15 20:16:38,240 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:16:38,242 - aiogram.dispatcher - WARNING - Sleep for 4.954238 seconds and try again... (tryings = 24, bot id = 7723968269)
+2025-04-15 20:17:04,235 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-15 20:17:04,235 - aiogram.dispatcher - WARNING - Sleep for 4.876131 seconds and try again... (tryings = 25, bot id = 7723968269)
+2025-04-15 20:17:09,133 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-15 20:17:09,408 - aiogram.dispatcher - INFO - Polling stopped for bot @CosmicHoroscope_bot id=7723968269 - '"Небесные Секреты" 🌌'
+2025-04-15 20:17:09,411 - __main__ - INFO - Бот остановлен пользователем
+2025-04-15 20:17:09,611 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x00000188326B3B10>
