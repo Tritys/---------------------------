@@ -26,8 +26,8 @@ API_KEY = ""
 MODEL = "mistral-small-latest"
 IMAGE_API_KEY = ""
 BOT_TOKEN = ""
-ADMIN_ID = 1643671102
-CHANNEL_ID = -1002574954752  # Убедитесь, что ID правильный
+ADMIN_ID = 
+CHANNEL_ID =   # Убедитесь, что ID правильный
 
 # Инициализация бота с увеличенными таймаутами
 bot = Bot(token=BOT_TOKEN)
