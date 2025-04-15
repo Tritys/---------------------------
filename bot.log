@@ -216,3 +216,7 @@ client_session: <aiohttp.client.ClientSession object at 0x0000026905F43750>
 2025-04-15 20:17:09,411 - __main__ - INFO - Бот остановлен пользователем
 2025-04-15 20:17:09,611 - asyncio - ERROR - Unclosed client session
 client_session: <aiohttp.client.ClientSession object at 0x00000188326B3B10>
+2025-04-15 20:17:22,377 - aiogram.dispatcher - INFO - Start polling
+2025-04-15 20:17:22,450 - aiogram.dispatcher - INFO - Run polling for bot @CosmicHoroscope_bot id=7723968269 - '"Небесные Секреты" 🌌'
+2025-04-15 20:17:23,414 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 20:17:23,921 - __main__ - INFO - Публикация в канал: "Небесные Секреты" 🌌

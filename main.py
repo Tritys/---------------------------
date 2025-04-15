@@ -22,10 +22,10 @@ if sys.platform == "win32":
     asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
 # Настройки API
-API_KEY = "CcbygdtGxp6ct8CkrijgLy0HIRjIpqXP"
+API_KEY = ""
 MODEL = "mistral-small-latest"
-IMAGE_API_KEY = "38c6683d-7469-4693-950c-009605a31aa9"
-BOT_TOKEN = "7723968269:AAEE8kzApt0PMqsmUX0QoZqbKnhB_RrqMRk"
+IMAGE_API_KEY = ""
+BOT_TOKEN = ""
 ADMIN_ID = 1643671102
 CHANNEL_ID = -1002574954752  # Убедитесь, что ID правильный
 
